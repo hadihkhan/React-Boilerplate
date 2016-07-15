@@ -32,4 +32,5 @@ You can install more modules and configure them in the **gulpfile.js** file as n
 - [Twitter](https://twitter.com/hadihkhan1)
 - [Github Account](https://github.com/hadihkhan/)
 
-## Special Thanks for The New Buston.
+## Special Thanks
+Special Thanks to [TheNewBuston](https://thenewboston.com/)
