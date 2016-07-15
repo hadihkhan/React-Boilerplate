@@ -26,9 +26,8 @@ You can install more modules and configure them in the **gulpfile.js** file as n
 
 ## Links
 
-- [Support thenewboston](https://www.patreon.com/thenewboston)
-- [thenewboston.com](https://thenewboston.com/)
-- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
-- [Twitter](https://twitter.com/bucky_roberts)
-- [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
+- [Youtube Channel](https://www.youtube.com/user/hadi0900)
+- [hadikhan.com](https://hadikhan.com/)
+- [Facebook](https://www.facebook.com/hadihkhan11)
+- [Twitter](https://twitter.com/hadihkhan1)
+- [Github Account](https://github.com/hadihkhan/)
